@@ -1,8 +1,11 @@
+# Machine Learning with Python
+
 This is repo for personal practcies and notes in advanced machine learning. 
 Sources are mainly from Advanced Machine Learning Course From UTSC ( https://utsc.calendar.utoronto.ca/course/stad68h3) 
 taught by professor sotos (https://www.utsc.utoronto.ca/cms/sotirios-damouras)
 Some parts of contents are with personal notes/extentions/practices, if you have any questions or notice any typos please feel free to contact me at cristal.wang@mail.utoronto.ca
 
+## Contents
 | Topic | Files | Access Links |
 |-------|-------|--------------|
 | 1. Linear Regression | 1.1_LinearRegression&GradientDescent.ipynb<br>1.2_LinReg&ConditionalNormal(CanUseForGeneralCase).ipynb | [1.1](https://github.com/your-username/cristal-w/blob/main/1.1_LinearRegression&GradientDescent.ipynb) <br> [1.2](https://github.com/your-username/cristal-w/blob/main/1.2_LinReg&ConditionalNormal(CanUseForGeneralCase).ipynb) |
